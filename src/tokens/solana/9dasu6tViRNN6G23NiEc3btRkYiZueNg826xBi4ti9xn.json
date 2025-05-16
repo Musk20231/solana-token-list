@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "9dasu6tViRNN6G23NiEc3btRkYiZueNg826xBi4ti9xn",
+  "symbol": "HACHI",
+  "name": "Hachiko",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Musk20231/solana-token-list/main/assets/mainnet/9dasu6tViRNN6G23NiEc3btRkYiZueNg826xBi4ti9xn/logo.png",
+  "tags": ["memecoin", "community-token", "dog"],
+  "extensions": {
+    "twitter": "https://twitter.com/hachiko_co",
+    "github": "https://github.com/Musk20231"
+  }
+}
